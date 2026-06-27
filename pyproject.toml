@@ -1,0 +1,13 @@
+[project]
+name = "action-recognition"
+version = "0.1.0"
+description = "Human Action Recognition using PyTorch and OpenCV"
+readme = "README.md"
+requires-python = ">=3.11"
+dependencies = [
+    "torch",
+    "torchvision",
+    "opencv-python",
+    "numpy",
+    "requests",
+]
